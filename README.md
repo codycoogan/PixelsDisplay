@@ -1,8 +1,10 @@
 # Wireless Pixel Display
-Code to drive a 10x20 LED board which allows for http requests to set scrolling text, letter and background colors, brightness and scroll speed adjustments. Powered with an ESP8266.
+Code to drive a 10x20 LED board which allows for http requests to set scrolling text, letter and background colors, brightness and scroll speed adjustments. Powered with an ESP8266 and WS2811 lights.
+
+Companion controller iOS app: https://github.com/codycoogan/LightMatrixController
 
 # Tutorial
-1. Position the WS2811 LEDs in a 10x20 matrix, I used pegboard to achieve this. 
+1. Position the WS2811 LEDs in a 10x20 matrix, I used pegboard. 
 
 2. Give the lights power, I use a 4.5V (3 AA batteries) battery pack 
 
