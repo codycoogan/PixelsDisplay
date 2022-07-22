@@ -1,5 +1,6 @@
 # Custom Wireless Pixel Display
-<img src="https://github.com/codycoogan/PixelsDisplay/blob/main/images/screenshot1.png?raw=true" width="200">
+<img src="https://github.com/codycoogan/PixelsDisplay/blob/main/hello_world.gif?raw=true" width="200">
+
 Code to drive a custom 10x20 LED board which allows for http requests to set scrolling text, letter and background colors, brightness and scroll speed adjustments. Powered with an ESP8266 and WS2811 lights.
 
 Companion controller iOS app: https://github.com/codycoogan/LightMatrixController
